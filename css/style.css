@@ -613,6 +613,7 @@
 .social-icon {
 	height: 2.4rem;
 	width: 2.4rem;
+	color: #767676;
 }
 
 .copyright {
@@ -648,7 +649,7 @@
 .footer-link:link, .footer-link:visited {
 	text-decoration: none;
 	font-size: 1.6rem;
-	color: #767676;
+	color: #120db0;
 	transition: all 0.3s;
 }
 
