@@ -17,7 +17,7 @@ Ce projet est un site pour une application fictive nommée Omnifood. Omnifood of
 
 ## Demo
 
-[Omnifood](https://www.omnifood.morganphemba.be)
+[www.omnifood.morganphemba.be](https://www.omnifood.morganphemba.be)
 ## Screenshots
 
 ![Omnifood - Hero Section](https://i.postimg.cc/TPJYB99r/Capture-d-cran-du-2024-09-01-22-53-44.png)
